@@ -1,4 +1,4 @@
-//CB-1 "Frisbee Bot" REMASTER 
+//CB-1 "Frisbee Bot" REMASTER
 
 // Copyright (c) FIRST and other WPILib contributors.
 // Open Source Software; you can modify and/or share it under the terms of
